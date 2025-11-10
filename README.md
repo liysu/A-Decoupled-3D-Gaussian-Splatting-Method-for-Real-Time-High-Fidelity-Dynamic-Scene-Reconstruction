@@ -7,3 +7,7 @@
 In the recent years, Neural Radiance Fields (NeRF) have emerged as an efficient and photorealistic solution...
 
 ## Results
+
+
+### Comparison with Baseline Methods
+![Comparison](assets/comparison.gif)
