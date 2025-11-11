@@ -8,8 +8,10 @@ In the recent years, Neural Radiance Fields (NeRF) have emerged as an efficient 
 
 ## Results
 
-### Dynamic Scene Reconstruction
-![Result 1](assets/result1.gif)
-
 ### Comparison with Baseline Methods
-![Comparison](assets/comparison.gif)
+!(assets/GT.mp4)
+!(assets/4D GAUSSIAN.mp4)
+!(assets/nerf player.mp4)
+!(assets/ours.mp4)
+
+
