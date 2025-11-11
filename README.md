@@ -1,6 +1,5 @@
 # A Decoupled 3D Gaussian Splatting Method for Real-Time High-Fidelity Dynamic Scene Reconstruction
 
-![Demo Animation](assets/demo.gif)
 
 ## Overview
 
@@ -10,8 +9,9 @@ In the recent years, Neural Radiance Fields (NeRF) have emerged as an efficient 
 
 ### Comparison with Baseline Methods
 
-| Ground Truth | 4D GAUSSIAN | NeRF Player | Ours |
-|:------------:|:-----------:|:-----------:|:----:|
-| ![GT](assets/GT.gif) | ![4D GAUSSIAN](assets/4D%20GAUSSIAN-.gif) | ![NeRF Player](assets/nerf%20player-.gif) | ![Ours](assets/ours-.gif) |
-
-*Figure: Qualitative comparison with baseline methods on dynamic scene reconstruction*
+| Method | Video |
+|--------|-------|
+| Ground Truth | [▶️ 播放](assets/GT.mp4) |
+| 4D GAUSSIAN | [▶️ 播放](assets/4D%20GAUSSIAN.mp4) |
+| NeRF Player | [▶️ 播放](assets/nerf%20player.mp4) |
+| Ours | [▶️ 播放](assets/ours.mp4) |
