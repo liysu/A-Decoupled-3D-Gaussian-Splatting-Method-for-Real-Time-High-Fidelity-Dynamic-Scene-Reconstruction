@@ -9,9 +9,9 @@ In the recent years, Neural Radiance Fields (NeRF) have emerged as an efficient 
 ## Results
 
 ### Comparison with Baseline Methods
-!(assets/GT.mp4)
-!(assets/4D GAUSSIAN.mp4)
-!(assets/nerf player.mp4)
-!(assets/ours.mp4)
+
+| Ground Truth | 4D GAUSSIAN | NeRF Player | Ours |
+|:------------:|:-----------:|:-----------:|:----:|
+| ![GT](assets/GT.gif) | ![4D GAUSSIAN](assets/4D%20GAUSSIAN.gif) | ![NeRF Player](assets/nerf%20player.gif) | ![Ours](assets/ours.gif) |
 
 
